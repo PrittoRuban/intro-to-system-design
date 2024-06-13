@@ -138,7 +138,8 @@ These problems are hard. Really hard for anyone who hasn’t practiced algorithm
 
 Consider this if you’re comfortable with LeetCode medium questions and find the questions in CTCI too easy.
 
-
+### [Blind 75 Leetcode poblems](https://takeuforward.org/interviews/blind-75-leetcode-problems-detailed-video-solutions)
+Blind 75 leetcode is a list of 75 most frequently asked leetcode questions which has helped many developers clear interviews of Google, Amazon, Microsoft, Facebook, etc. Hence, it is a tried and tested list with 1000s of testimonials available on all public review platforms such as Quora, teamblind, etc.
 
 
 # Closing Thoughts
